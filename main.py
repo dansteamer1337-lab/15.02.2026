@@ -9,7 +9,7 @@ import re
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TOKEN = "8559854296:AAEAU4TZtOecBsOA9poVJR_BQaO_I87AvWY"
+TOKEN = "TOKEN"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
